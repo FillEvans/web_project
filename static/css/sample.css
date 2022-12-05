@@ -190,7 +190,6 @@ img:not([src]) {
 	font-weight: 700;
 	background-image: none;
 	cursor: pointer;
-	-webkit-appearance: none;
 	-webkit-user-select: none;
 	-moz-user-select: none;
 	-ms-user-select: none;
@@ -1339,7 +1338,6 @@ img:not([src]) {
 .t754__price-value, .t754__price-currency {
 	display: inline-block;
 	vertical-align: middle;
-	float: left
 }
 .t754__price-value+.t754__price-currency:before {
 	content: ' ';
@@ -2224,7 +2222,6 @@ img:not([src]) {
 }
 .t823 .t-input {
 	background-color: transparent;
-	-webkit-appearance: none
 }
 .t823 .t-input::-ms-clear {
 	width: 0;
@@ -2269,7 +2266,6 @@ img:not([src]) {
 }
 .t823 .t-form__submit {
 	display: block;
-	vertical-align: middle;
 	height: 100%;
 	margin-top: 30px;
 	margin-bottom: 10px;
@@ -2542,7 +2538,6 @@ img:not([src]) {
 }
 .t228 .t-sociallinks a, .t228__right_social_links a {
 	display: block;
-	vertical-align: middle
 }
 .t228 .t-sociallinks__item, .t228__right_social_links_item {
 	display: table-cell;
